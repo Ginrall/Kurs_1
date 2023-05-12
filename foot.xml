@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE footer[
+<!ELEMENT footer (page, a1, life, mts)>
+<!ELEMENT page (#PCDATA)>
+<!ELEMENT a1 (#PCDATA)>
+<!ELEMENT life (#PCDATA)>
+<!ELEMENT mts (#PCDATA)>
+]>
+<footer>
+    <page>contact info:</page>
+    <a1>A1: +375 (44) 000 00 00</a1>
+    <life>Life: +375 (25) 000 00 00</life>
+    <mts>MTC: +375 (29) 000 00 00</mts>
+</footer>

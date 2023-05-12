@@ -1,0 +1,58 @@
+body > nav > ul > li > ul{
+    /* border: 1px solid black; */
+    margin-left: -7%;
+}
+body > .grid{
+    grid-template-columns: 60%;
+    padding-left: 40%;
+    margin-bottom: 20%;
+    grid-template-rows: 30% 30% 30% 30%;
+}
+body > .grid2{
+    grid-template-columns: 60%;
+    padding-left: 40%;
+    margin-bottom: 60%;
+}
+body > .bask{
+    height: 15vh;
+    background-color: rgb(29, 77, 65);
+    margin: -3% -0.5% 0 -5%; 
+    padding-left: 5%;
+    padding-top: -2%;
+    width: 100%;
+}
+body > .flex > .basket{
+    flex: 1 1 9%;
+    width: 5%;
+}
+body > .flex > .logo > img{
+    flex: 2 2 10%;
+    width: 50%;
+    margin-left: 26%;
+}
+body > .flex > .login > img{
+    width: 12%;
+    margin-left: 90%;
+    margin-top: -19%;
+}
+body > .flex > .login > input{
+    margin: 3% 0 0 75%;
+}
+body > .flex{
+    width: 100.55%;
+}
+body > .form{
+    width: 100.55%;
+}
+body > .form > .logo{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: -3%;
+}
+body > .form > .menu{
+    padding-top: 3%;
+}
+body > xml > footer{
+    width: 100.55%;
+    padding-bottom: 0.8%;
+}
